@@ -95,50 +95,28 @@ analytics:
 author:
   name             : "Meghna Rakesh Shrivastava"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Enthusiast"
+  bio              : "Hello! It's me Meghna. I am a dedicated data science professional and a true self-believer. I have a total of near 3.5 years of works experience working in industry, research, and other domain specific groups. My experience includes working at various positions related to Software Development, Research Assistant, Data Visualization, Machine Learning, Data Science, Deep Learning, Image Processing and Computer Vision.  Currently, I am working as a Machine Learning Engineer for a Fortune 500 Company"
   location         : "Champaign, IL, United States"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
+      url: "shrivastavarmeghna@gmail.com"
+      url: "meghna3@illinois.edu"
+
+    - label: "Linkedin"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.linkedin.com/in/shrivastavarmeghna04"
+
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/MeghnaRShrivastava"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
 
 
 # Reading Files
