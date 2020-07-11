@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -95,14 +95,13 @@ analytics:
 author:
   name             : "Meghna Rakesh Shrivastava"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hello! It's me Meghna. I am a dedicated data science professional and a true self-believer. With a total of near 3.5 years of work experience in computer industry, research, and other domain specific groups, my essential skills has been built by working at various positions related to Software Development, Data Visualization, Machine Learning, Data Science, Deep Learning, Image Processing and Computer Vision fields.  Currently, I am working as a Machine Learning Engineer with one of the global agricultural tech giant (fortune 500 Company)"
+  bio              : "Hello! It's me Meghna. I am a dedicated data science professional and a true self-believer. With a total of near 3.5 years of work experience(including full-time positions and industry internships), my core skills has been built by working at various positions related to Software Development, Machine Learning, Data Science, Deep Learning, Image Processing and Computer Vision fields.  Currently, I am working as a Machine Learning Engineer with one of the global agricultural tech giant (a fortune 500 company)"
   location         : "Champaign, IL, United States"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "shrivastavarmeghna@gmail.com"
-      url: "meghna3@illinois.edu"
 
     - label: "Linkedin"
       icon: "fas fa-fw fa-link"
