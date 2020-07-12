@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/UIUC_3.jpg"
+  image: "/images/meghna_3.jpg"
 ---
 
-I am a Data Scientist
+I'm currently working as a Machine Learning Engineer with AGCO Corporation.
