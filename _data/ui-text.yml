@@ -28,9 +28,7 @@ en: &DEFAULT_EN
   more_label                 : "Learn more"
   related_label              : "You may also enjoy"
 
-  feed_label                 : "Feed"
-
-  website_label              : "Website"
+  
   email_label                : "Email"
   recent_posts               : "Navigate to the above sections for accessing my projects"
   undefined_wpm              : "Undefined parameter words_per_minute at _config.yml"
@@ -87,7 +85,7 @@ es: &DEFAULT_ES
   related_label              : "Puede que también te interese"
   follow_label               : "Seguir:"
   feed_label                 : "Feed"
-  
+
   website_label              : "Sitio web"
   email_label                : "Correo electrónico"
   recent_posts               : "Entradas recientes"
